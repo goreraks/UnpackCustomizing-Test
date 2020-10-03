@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SCP1>
+    <SCPRATTR>
+     <ID>CDAT_VC_T009</ID>
+     <VERSION>N</VERSION>
+     <TYPE>GEN</TYPE>
+     <ORGID>/CUSTOMER/</ORGID>
+    </SCPRATTR>
+    <SCPRTEXT>
+     <SCPRTEXT>
+      <LANGU>E</LANGU>
+      <ID>CDAT_VC_T009</ID>
+      <VERSION>N</VERSION>
+      <TEXT>Generated via ABAPGIT</TEXT>
+     </SCPRTEXT>
+    </SCPRTEXT>
+    <SCPRVALS>
+     <SCPRVALS>
+      <ID>CDAT_VC_T009</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>V_T009_A</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>ANZBP</FIELDNAME>
+      <FLAG>USE</FLAG>
+      <VALUE>012</VALUE>
+     </SCPRVALS>
+     <SCPRVALS>
+      <ID>CDAT_VC_T009</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>V_T009_A</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>ANZSP</FIELDNAME>
+      <FLAG>USE</FLAG>
+      <VALUE>01</VALUE>
+     </SCPRVALS>
+     <SCPRVALS>
+      <ID>CDAT_VC_T009</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>V_T009_A</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>FYOFB</FIELDNAME>
+      <FLAG>USE</FLAG>
+      <VALUE>00</VALUE>
+     </SCPRVALS>
+     <SCPRVALS>
+      <ID>CDAT_VC_T009</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>V_T009_A</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>FYOFE</FIELDNAME>
+      <FLAG>USE</FLAG>
+      <VALUE>00</VALUE>
+     </SCPRVALS>
+     <SCPRVALS>
+      <ID>CDAT_VC_T009</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>V_T009_A</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>MANDT</FIELDNAME>
+      <FLAG>UKY</FLAG>
+      <VALUE>001</VALUE>
+     </SCPRVALS>
+     <SCPRVALS>
+      <ID>CDAT_VC_T009</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>V_T009_A</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>PERIV</FIELDNAME>
+      <FLAG>UKY</FLAG>
+      <VALUE>K1</VALUE>
+     </SCPRVALS>
+     <SCPRVALS>
+      <ID>CDAT_VC_T009</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>V_T009_A</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>XJABH</FIELDNAME>
+      <FLAG>USE</FLAG>
+     </SCPRVALS>
+     <SCPRVALS>
+      <ID>CDAT_VC_T009</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>V_T009_A</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>XKALE</FIELDNAME>
+      <FLAG>USE</FLAG>
+      <VALUE>X</VALUE>
+     </SCPRVALS>
+     <SCPRVALS>
+      <ID>CDAT_VC_T009</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>V_T009_A</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>XWEEK</FIELDNAME>
+      <FLAG>USE</FLAG>
+      <VALUE>X</VALUE>
+     </SCPRVALS>
+     <SCPRVALS>
+      <ID>CDAT_VC_T009</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>V_T009_A</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>XWEEKQUART</FIELDNAME>
+      <FLAG>USE</FLAG>
+     </SCPRVALS>
+    </SCPRVALS>
+    <SCPRVALL>
+     <SCPRVALL>
+      <ID>CDAT_VC_T009</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>V_T009_A</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>LTEXT</FIELDNAME>
+      <LANGU>D</LANGU>
+      <FLAG>USE</FLAG>
+      <VALUE>Kalenderjahr, 1 Sonderperiode</VALUE>
+     </SCPRVALL>
+     <SCPRVALL>
+      <ID>CDAT_VC_T009</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>V_T009_A</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>LTEXT</FIELDNAME>
+      <LANGU>E</LANGU>
+      <FLAG>USE</FLAG>
+      <VALUE>Cal. Year, 1 Special Period</VALUE>
+     </SCPRVALL>
+    </SCPRVALL>
+    <SCPRRECA>
+     <SCPRRECA>
+      <ID>CDAT_VC_T009</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>V_T009_A</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <OBJECTNAME>VC_T009</OBJECTNAME>
+      <OBJECTTYPE>C</OBJECTTYPE>
+     </SCPRRECA>
+    </SCPRRECA>
+   </SCP1>
+  </asx:values>
+ </asx:abap>
+</abapGit>
