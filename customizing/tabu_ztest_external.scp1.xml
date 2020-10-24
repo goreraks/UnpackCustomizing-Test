@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SCP1>
+    <SCPRATTR>
+     <ID>TABU_ZTEST_EXTERNAL</ID>
+     <VERSION>N</VERSION>
+     <TYPE>GEN</TYPE>
+     <ORGID>/CUSTOMER/</ORGID>
+    </SCPRATTR>
+    <SCPRTEXT>
+     <SCPRTEXT>
+      <LANGU>E</LANGU>
+      <ID>TABU_ZTEST_EXTERNAL</ID>
+      <VERSION>N</VERSION>
+      <TEXT>Generated via ABAPGIT</TEXT>
+     </SCPRTEXT>
+    </SCPRTEXT>
+    <SCPRVALS>
+     <SCPRVALS>
+      <ID>TABU_ZTEST_EXTERNAL</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>ZTEST_EXTERNAL</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>BANFN</FIELDNAME>
+      <FLAG>UKY</FLAG>
+      <VALUE>1</VALUE>
+     </SCPRVALS>
+     <SCPRVALS>
+      <ID>TABU_ZTEST_EXTERNAL</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>ZTEST_EXTERNAL</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>MANDT</FIELDNAME>
+      <FLAG>UKY</FLAG>
+      <VALUE>001</VALUE>
+     </SCPRVALS>
+     <SCPRVALS>
+      <ID>TABU_ZTEST_EXTERNAL</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>ZTEST_EXTERNAL</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <FIELDNAME>REQUIRED</FIELDNAME>
+      <FLAG>USE</FLAG>
+      <VALUE>X</VALUE>
+     </SCPRVALS>
+    </SCPRVALS>
+    <SCPRRECA>
+     <SCPRRECA>
+      <ID>TABU_ZTEST_EXTERNAL</ID>
+      <VERSION>N</VERSION>
+      <TABLENAME>ZTEST_EXTERNAL</TABLENAME>
+      <RECNUMBER>        1</RECNUMBER>
+      <OBJECTNAME>ZTEST_EXTERNAL</OBJECTNAME>
+      <OBJECTTYPE>S</OBJECTTYPE>
+     </SCPRRECA>
+    </SCPRRECA>
+   </SCP1>
+  </asx:values>
+ </asx:abap>
+</abapGit>
